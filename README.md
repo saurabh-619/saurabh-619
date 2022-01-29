@@ -22,7 +22,8 @@
 const saurabh_bomble = { 
   code: [Typescript, Javascript, HTML, CSS, Dart, Solidity, Python, C++, Rust],
   tools: {
-    frontend: [Next.js, React.js,  Redux, React Query, Apollo, React Native, Flutter],
+    frontend: [Next.js, React.js, Famer Motion, Redux, React Query, Apollo, React Native, Flutter],
+    design: [Figma, AdobeXd, Adobe after effects],
     backend: [Nest.js, Node.js, Firebase],
     api: [REST, GraphQL],
     database: [Postgres, MongoDB, Typeorm, Mongoose, Prisma], 
