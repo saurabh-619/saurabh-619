@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Systems Design**
 
-- 👨‍💻 Check out my personal portfolio: [https://www.saurabhbomble.me/](https://www.saurabhbomble.me/)
+- 👨‍💻 Check out my personal portfolio: [https://saurabhbomble.netlify.app/](https://saurabhbomble.netlify.app/)
 
 - 📫 Contact me: **saurabhbomble107@gmail.com**
 
