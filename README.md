@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my personal portfolio: [https://saurabhbomble.netlify.app/](https://saurabhbomble.netlify.app/)
 
-- 📫 Contact me: **saurabhbomble107@gmail.com**
+- 📫 Contact me: **saurabhbomble1011@gmail.com**
 
 - 👨‍💻 Check out my blogs : [Hashnode](https://saurabhbomble.hashnode.dev/) & [Dev.to](https://dev.to/saurabh619)
 
