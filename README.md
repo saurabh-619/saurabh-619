@@ -24,10 +24,10 @@ const saurabh_bomble = {
   tools: {
     frontend: [Next.js, React Native, SwiftUI, Flutter],
     design: [Figma, AdobeXd, Adobe after effects],
-    backend: [Django, golang, Nest.js, Node.js, Firebase],
+    backend: [Django, go, Nest.js, Node.js, Firebase],
     api: [REST, GraphQL],
     database: [Postgres, MongoDB, Typeorm, Mongoose, Prisma], 
-    devops: [Docker, kubernetes],
+    devops: [Docker, k8s],
     brokers: [Apache Kafka, RabbitMQ], 
     web3: [Ethereum, Solana]
   }
