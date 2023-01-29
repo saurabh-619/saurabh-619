@@ -22,13 +22,13 @@
 const saurabh_bomble = { 
   code: [Typescript, Javascript, HTML, CSS, Dart, Solidity, Python, C++, Rust],
   tools: {
-    frontend: [Next.js, React.js, Framer Motion, Redux, React Query, Apollo, React Native, Flutter],
+    frontend: [Next.js, React Native, SwiftUI, Flutter],
     design: [Figma, AdobeXd, Adobe after effects],
-    backend: [Nest.js, Node.js, Firebase],
+    backend: [Django, golang, Nest.js, Node.js, Firebase],
     api: [REST, GraphQL],
     database: [Postgres, MongoDB, Typeorm, Mongoose, Prisma], 
-    devops: [Docker],
-    systemDesign: [Apache Kafka, RabbitMQ], 
+    devops: [Docker, kubernetes],
+    brokers: [Apache Kafka, RabbitMQ], 
     web3: [Ethereum, Solana]
   }
 }
